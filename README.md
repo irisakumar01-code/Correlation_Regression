@@ -1,7 +1,9 @@
 # Correlation and regression for data analysis
-# Aim : 
+
+# Aim :
 
 To analyse given data using coeffificient of correlation and regression line
+
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
 
 # Software required : 
@@ -68,9 +70,13 @@ plt.legend(['Regression Line', 'Data points'])
 plt.grid(True) 
 plt.show()
 ~~~
+
 # Result :
+
 coefficient of correlation and regression line analysed successfully.
+
 # Output :
+
 <img width="731" height="634" alt="Screenshot 2026-03-12 203535" src="https://github.com/user-attachments/assets/40757c83-f48d-4a64-a53c-1bb7fe06007f" />
 
 
