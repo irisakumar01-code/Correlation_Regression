@@ -75,6 +75,13 @@ plt.show()
 
 coefficient of correlation and regression line analysed successfully.
 
+
+
+
+
+
+
+
 # Output :
 
 <img width="731" height="634" alt="Screenshot 2026-03-12 203535" src="https://github.com/user-attachments/assets/40757c83-f48d-4a64-a53c-1bb7fe06007f" />
